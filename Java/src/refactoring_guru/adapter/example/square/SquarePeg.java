@@ -4,6 +4,8 @@ package refactoring_guru.adapter.example.square;
  * КвадратныеКолышки несовместимы с КруглымиОтверстиями (они остались в проекте
  * после бывших разработчиков). Но мы должны как-то интегрировать их в нашу
  * систему.
+ *
+ * 
  */
 public class SquarePeg {
     private double width;
